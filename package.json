@@ -1,6 +1,6 @@
 {
-  "name": "ffprobe-static",
-  "version": "3.0.0",
+  "name": "ffprobe-static-next",
+  "version": "4.1.3",
   "description": "Static binaries for ffprobe.",
   "main": "index.js",
   "scripts": {
